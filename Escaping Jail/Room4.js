@@ -6,7 +6,7 @@ class PrisonRoom4 {
     this.speech = null;
     this.click = 0;
     this.speech = loadSound(
-      "Final Room 4 CS - 11:26:23, 1.31 PM.mp3",
+      "Final Room 4 CS.mp3",
       this.loaded
     );
     this.basketball = 0;
